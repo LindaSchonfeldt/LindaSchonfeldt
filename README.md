@@ -7,4 +7,4 @@ I'm a Developer and UX designer with a strong attention to detail. I thrive in c
 - 📚 Learning JavaScript with a focus on React
 
 ## Socials
-<a a href="https://www.linkedin.com/lindaschonfeldt"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f7e04d25-8ec0-4414-b944-aff7e7cae335" /></a>
+<a a href="https://www.linkedin.com/lindaschonfeldt"><img width="43" height="42" alt="Linked in" src="https://github.com/user-attachments/assets/f7e04d25-8ec0-4414-b944-aff7e7cae335" /></a>
