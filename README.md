@@ -6,8 +6,8 @@ about_me:
   "I'm a Developer and UX designer with a strong attention to detail. I thrive in creative, purpose-driven environments where I can combine empathy, and technology to create meaningful digital experiences."
 education:
 [
-  "Bachelor's Degree in Computer Science (Interaction Design)",
-  "Web Development Bootcamp",
+  "Bachelor's Degree in Computer Science (Interaction Design), @Stockholm_University",
+  "Web Development Bootcamp, @Technigo",
 ]
 
 fields_of_interests:
@@ -18,16 +18,9 @@ fields_of_interests:
   "Interest 4"
 ]
 
-technical_background:
-[
-  "Experience 1",
-  "Experience 2",
-  "Experience 3"
-]
-
-currently_learning: ["Skill or Technology you’re learning"]
-2025_Goals: ["Your professional or personal goals for this year"]
-hobbies: ["Hobby 1", "Hobby 2", "Hobby 3"]
+currently_learning: ["MongoDB, TypeScript"]
+2025_Goals: ["Continue to grow, and feel secure in my skills."]
+hobbies: ["Hiking", "Plants", "Coding"]
 ```
 
 
