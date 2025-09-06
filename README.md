@@ -8,8 +8,8 @@ about_me:
   and technology to create meaningful digital experiences."
 education:
 [
-  "Bachelor's Degree in Computer Science (Interaction Design), @Stockholm_University",
-  "Web Development Bootcamp, @Technigo",
+  "Bachelor's Degree in Computer Science (Interaction Design), Stockholm University",
+  "Web Development Bootcamp, Technigo",
 ]
 
 fields_of_interests:
