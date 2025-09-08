@@ -14,10 +14,11 @@ education:
 
 fields_of_interests:
 [
-  "Interest 1",
-  "Interest 2",
-  "Interest 3",
-  "Interest 4"
+  "UX Strategy",
+  "Design Systems & Organization",
+  "True crime",
+  "Psychology",
+  "Horror"
 ]
 
 currently_learning: ["MongoDB, TypeScript"]
