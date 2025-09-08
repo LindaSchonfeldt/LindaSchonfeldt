@@ -16,14 +16,22 @@ fields_of_interests:
 [
   "UX Strategy",
   "Design Systems & Organization",
-  "True crime",
+  "Self-development",
+  "Spirituality",
   "Psychology",
+  "True crime",
   "Horror"
 ]
 
 currently_learning: ["MongoDB, TypeScript"]
 2025_Goals: ["Continue to grow, and feel secure in my skills."]
-hobbies: ["Hiking in nature", "Caring for plants", "Learning new coding skills", "Trying new food and/or fika"]
+
+hobbies: [
+"Hiking in nature",
+"Caring for plants",
+"Learning new coding skills",
+"Trying new food and/or fika"
+]
 ```
 
 
