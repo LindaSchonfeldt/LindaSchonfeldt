@@ -14,6 +14,7 @@ education:
 
 fields_of_interests:
 [
+  "Learning",
   "UX Strategy",
   "Design Systems & Organization",
   "Self-development",
