@@ -23,7 +23,7 @@ fields_of_interests:
   "Horror"
 ]
 
-currently_learning: ["MongoDB, TypeScript"]
+currently_learning: ["MongoDB, TypeScript", "PostgreSQL", "Tailwind CSS"]
 2025_Goals: ["Continue to grow, and feel secure in my skills."]
 
 hobbies:
