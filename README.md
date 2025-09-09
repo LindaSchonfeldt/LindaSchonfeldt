@@ -29,10 +29,11 @@ currently_learning: ["MongoDB, TypeScript", "PostgreSQL", "Tailwind CSS"]
 2025_Goals:
 [
 "Continue to grow, and feel secure in my skills.",
-"Build a stronger portfolio with projects that combine UX and development.",
-"Expand my network and connect with more people in the tech and design community.",
+"Build a stronger portfolio.",
+"Expand my network and connect with more people in the tech community.",
 "Balance work, studies, and self-care to maintain well-being.",
-"Find a mentor or join a mentorship program within tech."
+"Find a mentor or join a mentorship program within tech.",
+"Continue hiking with friends on Roslagsleden."
 ]
 
 hobbies:
