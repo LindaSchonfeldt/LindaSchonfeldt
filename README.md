@@ -45,6 +45,8 @@ hobbies:
 ]
 ```
 
+## Tech stack
+
 
 ## Socials
 <a a href="https://www.linkedin.com/lindaschonfeldt"><img width="43" height="42" alt="Linked in" src="https://github.com/user-attachments/assets/f7e04d25-8ec0-4414-b944-aff7e7cae335" /></a>
