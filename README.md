@@ -1,4 +1,4 @@
-# About Me
+## Hey, you! ☺️
 ```yaml
 name: "Linda Schönfeldt"
 located_in: "Stockholm, Sweden"
