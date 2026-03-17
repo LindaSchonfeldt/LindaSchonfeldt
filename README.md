@@ -16,16 +16,13 @@ education:
 fields_of_interests:
 [
   "Learning",
-  "UX Strategy",
-  "Design Systems & Organization",
   "Self-development",
   "Spirituality",
   "Psychology",
-  "True crime",
-  "Horror"
+  "True crime"
 ]
 
-currently_learning: ["MongoDB, TypeScript", "PostgreSQL", "Tailwind CSS"]
+currently_learning: ["MongoDB, "TailwindCSS"]
 
 2026_Goals:
 [
