@@ -29,7 +29,7 @@ currently_learning: ["MongoDB, "TailwindCSS"]
 "Continue to grow, and feel secure in my skills.",
 "Expand my network and connect with more people in the tech community.",
 "Balance work, studies, and self-care to maintain well-being.",
-"Continue hiking with friends on Roslagsleden."
+"Finish hiking Roslagsleden with friends."
 ]
 
 hobbies:
